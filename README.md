@@ -2,7 +2,7 @@
 OpenIntel - Automated OSINT (Open Source Intelligence) Tool
 
 # Disclaimer
-> This software is intended ***exclusively for educational purposes and ethical cybersecurity research***. It is designed to help users understand potential vulnerabilities in systems so they can improve their security.
+> This software is intended ***exclusively for educational purposes and ethical cybersecurity research***. It is designed to help users determine the potential exposed sensitive information so they can improve their security.
 >
 > By using this software, you agree to use it in compliance with all applicable laws and regulations. Unauthorized use, distribution, or deployment of this software against any system without the explicit permission of the system owner is strictly prohibited and may result in criminal and civil penalties.
 >
